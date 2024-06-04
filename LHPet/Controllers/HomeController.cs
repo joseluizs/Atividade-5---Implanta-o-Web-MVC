@@ -15,11 +15,6 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
-        return View();
-    }
-
-    public IActionResult Privacy()
-    {
         //instancia do tipo cliente
         Cliente c1 = new Cliente(1, "Luiz", "456.123.789-45", "luiz@email.com", "max");
         Cliente c2 = new Cliente(2, "Marques Luiz", "123.123.789-45", "marquesluiz@email.com", "teo");
@@ -50,7 +45,11 @@ public class HomeController : Controller
         listaFornecedores.Add(f4);
         listaFornecedores.Add(f5);
         ViewBag.listaFornecedores = listaFornecedores;
+        return View();
+    }
 
+    public IActionResult Privacy()
+    {
         return View();
     }
 
