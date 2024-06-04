@@ -91,3 +91,34 @@ D:\SENAI-ANGULAR\IMPLANTAÇÃO WEB MVC\LHPET\obj\Debug\net8.0\refint\LHPet.dll
 D:\SENAI-ANGULAR\IMPLANTAÇÃO WEB MVC\LHPET\obj\Debug\net8.0\LHPet.pdb
 D:\SENAI-ANGULAR\IMPLANTAÇÃO WEB MVC\LHPET\obj\Debug\net8.0\LHPet.genruntimeconfig.cache
 D:\SENAI-ANGULAR\IMPLANTAÇÃO WEB MVC\LHPET\obj\Debug\net8.0\ref\LHPet.dll
+D:\Senai\Atividade-5---Implanta-o-Web-MVC\LHPet\bin\Debug\net8.0\appsettings.Development.json
+D:\Senai\Atividade-5---Implanta-o-Web-MVC\LHPet\bin\Debug\net8.0\appsettings.json
+D:\Senai\Atividade-5---Implanta-o-Web-MVC\LHPet\bin\Debug\net8.0\LHPet.staticwebassets.runtime.json
+D:\Senai\Atividade-5---Implanta-o-Web-MVC\LHPet\bin\Debug\net8.0\LHPet.exe
+D:\Senai\Atividade-5---Implanta-o-Web-MVC\LHPet\bin\Debug\net8.0\LHPet.deps.json
+D:\Senai\Atividade-5---Implanta-o-Web-MVC\LHPet\bin\Debug\net8.0\LHPet.runtimeconfig.json
+D:\Senai\Atividade-5---Implanta-o-Web-MVC\LHPet\bin\Debug\net8.0\LHPet.dll
+D:\Senai\Atividade-5---Implanta-o-Web-MVC\LHPet\bin\Debug\net8.0\LHPet.pdb
+D:\Senai\Atividade-5---Implanta-o-Web-MVC\LHPet\obj\Debug\net8.0\LHPet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Senai\Atividade-5---Implanta-o-Web-MVC\LHPet\obj\Debug\net8.0\LHPet.AssemblyInfoInputs.cache
+D:\Senai\Atividade-5---Implanta-o-Web-MVC\LHPet\obj\Debug\net8.0\LHPet.AssemblyInfo.cs
+D:\Senai\Atividade-5---Implanta-o-Web-MVC\LHPet\obj\Debug\net8.0\LHPet.csproj.CoreCompileInputs.cache
+D:\Senai\Atividade-5---Implanta-o-Web-MVC\LHPet\obj\Debug\net8.0\LHPet.MvcApplicationPartsAssemblyInfo.cache
+D:\Senai\Atividade-5---Implanta-o-Web-MVC\LHPet\obj\Debug\net8.0\LHPet.RazorAssemblyInfo.cache
+D:\Senai\Atividade-5---Implanta-o-Web-MVC\LHPet\obj\Debug\net8.0\LHPet.RazorAssemblyInfo.cs
+D:\Senai\Atividade-5---Implanta-o-Web-MVC\LHPet\obj\Debug\net8.0\LHPet.sourcelink.json
+D:\Senai\Atividade-5---Implanta-o-Web-MVC\LHPet\obj\Debug\net8.0\staticwebassets.build.json
+D:\Senai\Atividade-5---Implanta-o-Web-MVC\LHPet\obj\Debug\net8.0\staticwebassets.development.json
+D:\Senai\Atividade-5---Implanta-o-Web-MVC\LHPet\obj\Debug\net8.0\staticwebassets\msbuild.LHPet.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Senai\Atividade-5---Implanta-o-Web-MVC\LHPet\obj\Debug\net8.0\staticwebassets\msbuild.build.LHPet.props
+D:\Senai\Atividade-5---Implanta-o-Web-MVC\LHPet\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LHPet.props
+D:\Senai\Atividade-5---Implanta-o-Web-MVC\LHPet\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LHPet.props
+D:\Senai\Atividade-5---Implanta-o-Web-MVC\LHPet\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Senai\Atividade-5---Implanta-o-Web-MVC\LHPet\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Senai\Atividade-5---Implanta-o-Web-MVC\LHPet\obj\Debug\net8.0\scopedcss\bundle\LHPet.styles.css
+D:\Senai\Atividade-5---Implanta-o-Web-MVC\LHPet\obj\Debug\net8.0\scopedcss\projectbundle\LHPet.bundle.scp.css
+D:\Senai\Atividade-5---Implanta-o-Web-MVC\LHPet\obj\Debug\net8.0\LHPet.dll
+D:\Senai\Atividade-5---Implanta-o-Web-MVC\LHPet\obj\Debug\net8.0\refint\LHPet.dll
+D:\Senai\Atividade-5---Implanta-o-Web-MVC\LHPet\obj\Debug\net8.0\LHPet.pdb
+D:\Senai\Atividade-5---Implanta-o-Web-MVC\LHPet\obj\Debug\net8.0\LHPet.genruntimeconfig.cache
+D:\Senai\Atividade-5---Implanta-o-Web-MVC\LHPet\obj\Debug\net8.0\ref\LHPet.dll

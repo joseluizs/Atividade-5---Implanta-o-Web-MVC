@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SENAI-ANGULAR\\IMPLANTAÇÃO WEB MVC\\LHPET\\LHPet.csproj": {}
+    "D:\\Senai\\Atividade-5---Implanta-o-Web-MVC\\LHPet\\LHPet.csproj": {}
   },
   "projects": {
-    "D:\\SENAI-ANGULAR\\IMPLANTAÇÃO WEB MVC\\LHPET\\LHPet.csproj": {
+    "D:\\Senai\\Atividade-5---Implanta-o-Web-MVC\\LHPet\\LHPet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SENAI-ANGULAR\\IMPLANTAÇÃO WEB MVC\\LHPET\\LHPet.csproj",
+        "projectUniqueName": "D:\\Senai\\Atividade-5---Implanta-o-Web-MVC\\LHPet\\LHPet.csproj",
         "projectName": "LHPet",
-        "projectPath": "D:\\SENAI-ANGULAR\\IMPLANTAÇÃO WEB MVC\\LHPET\\LHPet.csproj",
+        "projectPath": "D:\\Senai\\Atividade-5---Implanta-o-Web-MVC\\LHPet\\LHPet.csproj",
         "packagesPath": "C:\\Users\\Familia LCH\\.nuget\\packages\\",
-        "outputPath": "D:\\SENAI-ANGULAR\\IMPLANTAÇÃO WEB MVC\\LHPET\\obj\\",
+        "outputPath": "D:\\Senai\\Atividade-5---Implanta-o-Web-MVC\\LHPet\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
